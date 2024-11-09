@@ -1,1 +1,3 @@
-Just dumping up these website clones I practised using Adobe Photoshop back in 2022.
+Reference for plant's website: https://www.theplantstore.co.nz/
+
+Reference for coffee's website: https://preview.themeforest.net/item/cafena-coffee-shop-wordpress-theme/full_screen_preview/37901319
